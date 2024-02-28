@@ -31,7 +31,7 @@ function Education() {
                 <div className="flex bg-[#122B3C] flex-col   p-1 font-semibold rounded-md py-2">
                     <h2 className="px-10 font-sans font-bold text-pink-600 md:text-3xl">Certification Course</h2>
                     <h2 className="text-[#55D3D4] text-base md:text-xl mb-5 font-semibold px-10">MERN Full Stack Development</h2>
-                    <p className="text-[#55D3D4] px-10 md:text-bace md:font-semibold text-justify leading-6">@Error Make Clever-Acadamy</p>
+                    <p className="text-[#55D3D4] px-10 md:text-bace md:font-semibold text-justify leading-6">@Error Make Clever-Academy</p>
                     <h2 className="text-[#55D3D4] text-base md:text-xl font-semibold px-10">Student</h2>
                 </div>
             </div>

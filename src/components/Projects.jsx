@@ -10,7 +10,7 @@ function Projects() {
 
         <div id="projects" className="">
             <div className="text-center">
-                <h1 className="mt-20 text-xl font-bold text-white md:text-4xl">PROJECTS</h1>
+                <h1 className="mt-10 text-xl font-bold text-white md:text-4xl">PROJECTS</h1>
                 <p className="w-full p-10 md:px-60 text-sm font-semibold text-justify text-[#55D3D4] md:text-center md:text-2xl">
                     Here you will find some of the personal  projects that I created with each project containing its own case study
                 </p>
